@@ -1,2 +1,6 @@
 # PRO-C162
-3D BOWLING STAGE 2
+
+---
+press Q to throw bowling ball
+
+https://viet4.github.io/PRO-C162/
